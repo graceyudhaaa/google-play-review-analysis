@@ -1,0 +1,9 @@
+[submodule "InSet"]
+	path = InSet
+	url = https://github.com/fajri91/InSet.git
+[submodule "NLP_bahasa_resources"]
+	path = NLP_bahasa_resources
+	url = https://github.com/louisowen6/NLP_bahasa_resources.git
+[submodule "Lbl2Vec"]
+	path = Lbl2Vec
+	url = https://github.com/sebischair/Lbl2Vec.git
