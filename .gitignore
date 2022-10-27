@@ -1,1 +1,4 @@
 .venv
+doc2vec_*
+Lbl2vec_model.p
+content_label_comparison.csv
